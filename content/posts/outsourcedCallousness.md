@@ -1,7 +1,7 @@
 ---
 title: "Walter White has been on Better Call Saul the whole time - and she’s breaking bad"
 date: 2022-04-22T14:28:14-04:00
-draft: true
+draft: False
 ---
 
 ***This post assumes the reader has an up-to-date knowledge of the events of *Better Call Saul* through the first two episodes of Season 6.***
