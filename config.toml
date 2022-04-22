@@ -1,0 +1,5 @@
+baseURL = 'https://echeng6.github.io/'
+languageCode = 'en-us'
+title = 'Ethan Cheng'
+theme = "papermod" 
+publishDir = "docs"
